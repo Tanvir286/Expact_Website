@@ -61,7 +61,7 @@ We welcome contributions! Follow these steps to contribute:
 [GitHub Profile](https://github.com/your-username)
 
 
-Tanvir Ahamed
-Bsc in Cse
-Daffodil international University
-01923-982877
+##Tanvir Ahamed
+##Bsc in Cse
+##Daffodil international University
+##01923-982877

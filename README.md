@@ -1,6 +1,13 @@
-# Expat Website
+# 🌍 **Expat Website**
 
-A responsive website designed for optimal performance across desktops, tablets, and mobile devices. Built with modern technologies to ensure a smooth and engaging user experience.
+A responsive website designed for **optimal performance** across desktops, tablets, and mobile devices. Built with modern technologies to ensure a **smooth** and **engaging user experience**.
+
+---
+
+## 🚀 **Live Demo**
+[**Visit the Website**](https://expact-website.vercel.app/)
+
+---
 
 ## 🌟 Project Overview
 This project focuses on responsive web development, ensuring seamless functionality and aesthetic appeal across different devices. The website is enhanced with interactive features like sliders to create an engaging user experience.

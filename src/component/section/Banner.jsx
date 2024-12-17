@@ -3,19 +3,21 @@ import { FaArrowRightLong } from "react-icons/fa6";
 
 const Banner = () => {
     return (
-        <div className='banner pt-[208px] pb-[120px] md:pb-[176px] relative'>
+        <div className='banner pt-[28px] pb-[120px] md:pb-[166px] relative'>
             {/* Container for the entire banner section */}
             <div className='max-w-container mx-auto relative'>
 
                 {/* Navbar part start */}
-                <div className='absolute -top-[184px] left-0 w-full flex justify-between items-center backdrop-blur-md bg-opacity-30  bg-[#f4f4f4] px-5 py-4 rounded-lg shadow-lg text-white mb-10'>
-                    
-                     <img src="/images/logo.png" alt="" className='w-24' />
-                     
-                     <div className='text-primary-blue bg-white rounded-xl px-4 py-3 font-montserrat-semibold text-lg inline-block cursor-pointer'>
-                        Log in
-                     </div>
+                <div className='px-3 lg:px-0'>
+                    <div className=' flex justify-between items-center backdrop-blur-md bg-opacity-30  bg-[#f4f4f4] px-5 py-4 rounded-lg shadow-lg text-white mb-10'>
+                        
+                        <img src="/images/logo.png" alt="" className='w-16 lg:w-24' />
+                        
+                        <div className='text-primary-blue bg-white rounded-xl px-2 py-2 lg:px-4 lg:py-3 font-montserrat-semibold text-base lg:text-lg inline-block cursor-pointer'>
+                            Log in
+                        </div>
 
+                    </div>
                 </div>
                 {/* Navbar part start */}
 
@@ -150,7 +152,7 @@ const Banner = () => {
 
                 {/* ====Out part start ==== */}
                 <div className='hidden md:block'>
-                    <div className='bg-white md:flex justify-between px-4 py-4 rounded-xl absolute w-full -bottom-[340px] z-40'>
+                    <div className='bg-white md:flex justify-between px-4 py-4 rounded-xl absolute w-full -bottom-[330px] z-40'>
                             {/* one start */}
                             <div>
                                 <img src="/images/banner/one.png" alt="" />

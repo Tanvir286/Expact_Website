@@ -2,9 +2,6 @@
 
 A responsive website designed for optimal performance across desktops, tablets, and mobile devices. Built with modern technologies to ensure a smooth and engaging user experience.
 
-![Project Screenshot](https://expact-website.vercel.app/)  
-*Screenshot of the Expat Website*
-
 ## 🌟 Project Overview
 This project focuses on responsive web development, ensuring seamless functionality and aesthetic appeal across different devices. The website is enhanced with interactive features like sliders to create an engaging user experience.
 
@@ -49,18 +46,6 @@ Ensure you have the following installed:
 - Interactive sliders powered by React Slider.
 - Clean and maintainable codebase.
 
-## 📂 Project Structure
-```plaintext
-expact-website/
-├── public/             # Static assets
-├── src/                # Source code
-│   ├── components/     # Reusable React components
-│   ├── pages/          # Application pages
-│   ├── styles/         # Tailwind and global styles
-│   └── utils/          # Helper functions
-├── package.json        # Project dependencies and scripts
-└── README.md           # Project documentation
-```
 
 ## 📸 Screenshots
 ### Home Page

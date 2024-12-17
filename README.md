@@ -65,7 +65,7 @@ Ensure you have the following installed:
 - 📞 **Contact**: [01923-982877](tel:+8801923982877)  
 - 🔗 **GitHub**: [github.com/tanvir286](https://github.com/tanvir286)  
 - 🌐 **Portfolio**: [profolio-site-indol.vercel.app](https://profolio-site-indol.vercel.app/home)  
-- ✉️ **Email**: [tanvir@example.com](mailto:tanvir@example.com)
+- ✉️ **Email**: [tanvir@example.com](mailto:tanvirahamed1943@example.com)
 
 ---
 

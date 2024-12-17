@@ -47,15 +47,6 @@ Ensure you have the following installed:
 - Clean and maintainable codebase.
 
 
-## 📸 Screenshots
-### Home Page
-![Home Page](https://via.placeholder.com/1200x600?text=Home+Page)
-
-### Responsive Design
-#### Mobile View
-![Mobile View](https://via.placeholder.com/600x1200?text=Mobile+View)
-#### Tablet View
-![Tablet View](https://via.placeholder.com/800x1000?text=Tablet+View)
 
 ## 🤝 Contributing
 We welcome contributions! Follow these steps to contribute:
@@ -69,8 +60,8 @@ We welcome contributions! Follow these steps to contribute:
 **Tanvir Ahamed**  
 [GitHub Profile](https://github.com/your-username)
 
-## 📜 License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
----
-Made with ❤️ by Tanvir Ahamed
+Tanvir Ahamed
+Bsc in Cse
+Daffodil international University
+01923-982877

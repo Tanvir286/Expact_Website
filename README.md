@@ -31,11 +31,8 @@ Ensure you have the following installed:
 - npm or yarn package manager
 
 ### Installation Steps
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/expact-website.git
-   cd expact-website
-   ```
+1. **Dowload Zip**
+   
 
 2. **Install Dependencies**
    ```bash

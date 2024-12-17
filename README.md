@@ -2,7 +2,7 @@
 
 A responsive website designed for optimal performance across desktops, tablets, and mobile devices. Built with modern technologies to ensure a smooth and engaging user experience.
 
-![Project Screenshot](https://via.placeholder.com/1200x600?text=Expat+Website)  
+![Project Screenshot](https://expact-website.vercel.app/)  
 *Screenshot of the Expat Website*
 
 ## 🌟 Project Overview
